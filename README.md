@@ -126,6 +126,11 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 
+
+
+
+
+
 ## OUTPUT:
 
 ![image](https://github.com/ssnithyaasri/SMS_Intent/assets/119122478/694a58cc-8a3c-49b1-b284-755459bef3a9)
